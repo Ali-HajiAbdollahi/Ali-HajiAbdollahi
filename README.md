@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=false&width=900&lines=Hi+I'm+Ali+Haji+Abdollahi;Flutter+Developer+%7C+AI+Enthusiast+%7C+Web+Developer;MSc+Computer+Engineering+Student+at+Politecnico+di+Torino;Passionate+about+building+real-world+mobile+apps;Open+to+collaboration+and+learning+new+things)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=false&width=900&lines=Hi+I'm+Ali+HajiAbdollahi;Flutter+Developer+%7C+AI+Enthusiast+%7C+Web+Developer;MSc+Computer+Engineering+Student+at+Politecnico+di+Torino;Passionate+about+building+real-world+mobile+apps;Open+to+collaboration+and+learning+new+things)
 
 🎓 MSc in Computer Engineering | Politecnico di Torino  
 📍 Originally from Iran | Currently based in Turin, Italy  
