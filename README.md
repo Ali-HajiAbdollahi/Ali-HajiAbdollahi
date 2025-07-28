@@ -4,7 +4,7 @@
 📍 Originally from Iran | Currently based in Turin, Italy  
 🌐 Hands-on experience with React and modern web development technologies  
 💡 Passionate about Flutter, mobile app development, and artificial intelligence  
-🚀 Dedicated to continuous learning and building impactful real-world applications
+🚀 Dedicated to continuous learning and building impactful real-world applications  
 🤝 Open to collaboration and new professional challenges  
 
 ---
