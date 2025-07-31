@@ -36,7 +36,7 @@ Currently, I’m concentrating on Flutter and Dart to build engaging and user-fr
 My projects focus on mastering UI design, navigation, and state management.
 
 ### 🛠️ Some of my Flutter Projects
-- 📱
+- 📱[flutter_profile_app](https://github.com/Ali-HajiAbdollahi/flutter_profile_app)
 
 More projects coming soon...
 
