@@ -37,6 +37,7 @@ My projects focus on mastering UI design, navigation, and state management.
 
 ### 🛠️ Some of my Flutter Projects
 - 📱[flutter_profile_app](https://github.com/Ali-HajiAbdollahi/flutter_profile_app)
+- 📱[flutter_blogclub](https://github.com/Ali-HajiAbdollahi/flutter_blogclub)
 
 More projects coming soon...
 
