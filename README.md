@@ -9,21 +9,6 @@
 
 ---
 
-## 🧠 Completed Specializations on Coursera
-
-I have successfully completed the following Coursera specializations, with all assignments, projects, and notes publicly available:
-
-- [AI For Everyone](https://github.com/Ali-HajiAbdollahi/AI_ForEveryone)  
-  A non-technical overview of AI’s impact on business and society.
-
-- [Deep Learning Specialization](https://github.com/Ali-HajiAbdollahi/DeepLearningSpecialization)  
-  An in-depth series covering core deep learning concepts, including hands-on exercises and notes.
-
-- [Machine Learning Specialization](https://github.com/Ali-HajiAbdollahi/MachineLearningSpecialization)  
-  Practical labs and projects based on Andrew Ng’s foundational machine learning course.
-
----
-
 ## 💻 Technologies & Tools
 
 [![Skills](https://skillicons.dev/icons?i=flutter,dart,python,react,js,html,css,git)](https://skillicons.dev)
