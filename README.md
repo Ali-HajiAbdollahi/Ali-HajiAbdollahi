@@ -30,7 +30,7 @@ More projects coming soon...
 
 ## 📈 GitHub Stats
 
-![Ali's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Ali-HajiAbdollahi&show_icons=true&theme=github_dark](https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-HajiAbdollahi&show_icons=true&theme=github_dark)  
+![Ali's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-HajiAbdollahi&show_icons=true&theme=github_dark)
 
 ---
 
