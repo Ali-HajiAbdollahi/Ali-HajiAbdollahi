@@ -26,11 +26,6 @@ My projects focus on mastering UI design, navigation, and state management.
 
 More projects coming soon...
 
----
-
-## 📈 GitHub Stats
-
-![Ali's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-HajiAbdollahi&show_icons=true&theme=github_dark)
 
 ---
 
