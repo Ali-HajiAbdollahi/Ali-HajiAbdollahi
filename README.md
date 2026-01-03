@@ -2,7 +2,6 @@
 
 🎓 MSc in Computer Engineering | Politecnico di Torino  
 📍 Originally from Iran | Currently based in Turin, Italy  
-🌐 Hands-on experience with React and modern web development technologies  
 💡 Passionate about Flutter, mobile app development, and artificial intelligence  
 🚀 Dedicated to continuous learning and building impactful real-world applications  
 🤝 Open to collaboration and new professional challenges  
@@ -21,8 +20,9 @@ Currently, I’m concentrating on Flutter and Dart to build engaging and user-fr
 My projects focus on mastering UI design, navigation, and state management.
 
 ### 🛠️ Some of my Flutter Projects
-- 📱[flutter_profile_app](https://github.com/Ali-HajiAbdollahi/flutter_profile_app)
-- 📱[flutter_blogclub](https://github.com/Ali-HajiAbdollahi/flutter_blogclub)
+- 📱[Profile CV App](https://github.com/Ali-HajiAbdollahi/flutter_profile_app)
+- 📱[Blogclub App](https://github.com/Ali-HajiAbdollahi/flutter_blogclub)
+- 📱[To-Do List App](https://github.com/Ali-HajiAbdollahi/flutter_todo_list)
 
 More projects coming soon...
 
